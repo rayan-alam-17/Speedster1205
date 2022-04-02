@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Speedster1205
 - 👀 I’m deeply interested in computer science/software engineering; therfore I am trying to devlop a plethora of useful abilties for the future.
-- 🌱 I’m currently focusing on improving my typing capabilities(90 WPM), in addition to my java, python and c++ skills on codiva, JGRASP, codeHS. robocode and etc. Furthermore, I have started indulging in computer engineering activities such as ciruits and lego robotics.
+- 🌱 I’m currently focusing on improving my typing capabilities(90 WPM), in addition to my java, python and c++ skills on Codiva, JGRASP, CodeHS. RoboCode and etc. Furthermore, I have started indulging in computer engineering activities such as building ciruits and lego robotics.
