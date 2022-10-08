@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Speedster1205
 - 👀 I’m deeply interested in computer science/software engineering; therfore I am trying to devlop a plethora of useful abilties for the future.
-- 🌱 I’m currently focusing on improving my typing capabilities (90 WPM), in addition to my java, python and C++ skills on Codiva, JGRASP, CodeHS. RoboCode and etc. Furthermore, I have started indulging in computer engineering activities such as building ciruits and lego robotics.
+- 🌱 I’m currently focusing on improving my typing capabilities (90 WPM), in addition to my java, python and C++ skills on Codiva, JGRASP, CodeHS, RoboCode and etc. Furthermore, I recently started working for an organization called MY Voice Canada and at the moment I am learning the language dart on flutter sdk. I am using visual studio code and the andrioid emulator to help make this all possible.
